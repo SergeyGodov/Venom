@@ -209,7 +209,7 @@ max-width: 320px;
 }
 @media (max-width: 576px) {
     .venom {
-        top: 12%;
+        top:13%;
         width: 43%;
     }
     .nav-menu {
@@ -270,6 +270,7 @@ max-width: 320px;
         background-color:#14131A;
         cursor: pointer;
         color: white;
+        margin-bottom: 15%;
         
     }
     .menu-button-text {
